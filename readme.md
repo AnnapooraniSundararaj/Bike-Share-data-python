@@ -29,12 +29,12 @@ The code helps user to tell about bike share use in Chicago, New York City and W
 * most common end station
 * most common trip from start to end (i.e., most frequent combination of start station and end station)
 
-######Trip duration:
+###### Trip duration:
 * total travel time
 * average travel time
 
 
-#User information:
+# User information:
 * counts of each user type
 * counts of each gender (only available for NYC and Chicago)
 * earliest, most recent, most common year of birth (only available for NYC and Chicago)
